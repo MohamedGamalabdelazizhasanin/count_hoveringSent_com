@@ -30,3 +30,8 @@ span{
     background: #000;
     cursor: pointer;
 }
+.nane{
+    width: '0px';
+    height: inherit;
+
+}
